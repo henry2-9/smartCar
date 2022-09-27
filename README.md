@@ -9,7 +9,7 @@
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image2.png?raw=true)
 
-圖 2 智能汽車演示平台的系統架構。
+圖 2. 智能汽車演示平台的系統架構。
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image3.png?raw=true)
 
