@@ -17,7 +17,7 @@
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image4.png?raw=true)
 
-圖 4. 透明擋風玻璃顯示屏的佈局組合
+圖 4. 透明擋風玻璃顯示屏的佈局組合。
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image5.png?raw=true)
 
